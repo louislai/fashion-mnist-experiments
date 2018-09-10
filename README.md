@@ -14,7 +14,7 @@ Model checkpoints and logs will be created in this folder
 
 #### Resuming training
 
-Run `python3 model.py --model-dir=<MODEL_DIR>`. This will continue training from the latest checkpoint in `<MODEL_DIR>`/
+Run `python3 model.py --model-dir=<MODEL_DIR>`. This will continue training from the latest checkpoint in `<MODEL_DIR>`
 
 #### Running inference on an image
 
